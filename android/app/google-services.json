@@ -1,0 +1,47 @@
+{
+  "project_info": {
+    "project_number": "1095364022850",
+    "firebase_url": "https://storage-demo-ca025.firebaseio.com",
+    "project_id": "storage-demo-ca025",
+    "storage_bucket": "storage-demo-ca025.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1095364022850:android:8852d83d49b27cb9",
+        "android_client_info": {
+          "package_name": "com.example.storagedemo"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "1095364022850-00p4prichcchsnm170fpjvrne1dt19ts.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyC7hAp5kyLQbeQAtjF-cs7vV5RsE7PhS9Y"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "1095364022850-00p4prichcchsnm170fpjvrne1dt19ts.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "1095364022850-aaf6cbi30uma78hqf5n5ghu9ngaui2qu.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.example.storagedemo"
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

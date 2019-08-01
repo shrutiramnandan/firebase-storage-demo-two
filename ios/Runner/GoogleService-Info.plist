@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>CLIENT_ID</key>
+	<string>1095364022850-aaf6cbi30uma78hqf5n5ghu9ngaui2qu.apps.googleusercontent.com</string>
+	<key>REVERSED_CLIENT_ID</key>
+	<string>com.googleusercontent.apps.1095364022850-aaf6cbi30uma78hqf5n5ghu9ngaui2qu</string>
+	<key>API_KEY</key>
+	<string>AIzaSyB0z9Wk9jAK7YgmYcAhzTK9YCl2J4DX6bg</string>
+	<key>GCM_SENDER_ID</key>
+	<string>1095364022850</string>
+	<key>PLIST_VERSION</key>
+	<string>1</string>
+	<key>BUNDLE_ID</key>
+	<string>com.example.storagedemo</string>
+	<key>PROJECT_ID</key>
+	<string>storage-demo-ca025</string>
+	<key>STORAGE_BUCKET</key>
+	<string>storage-demo-ca025.appspot.com</string>
+	<key>IS_ADS_ENABLED</key>
+	<false></false>
+	<key>IS_ANALYTICS_ENABLED</key>
+	<false></false>
+	<key>IS_APPINVITE_ENABLED</key>
+	<true></true>
+	<key>IS_GCM_ENABLED</key>
+	<true></true>
+	<key>IS_SIGNIN_ENABLED</key>
+	<true></true>
+	<key>GOOGLE_APP_ID</key>
+	<string>1:1095364022850:ios:8852d83d49b27cb9</string>
+	<key>DATABASE_URL</key>
+	<string>https://storage-demo-ca025.firebaseio.com</string>
+</dict>
+</plist>
